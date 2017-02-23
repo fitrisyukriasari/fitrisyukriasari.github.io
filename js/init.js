@@ -106,7 +106,7 @@ function porky(){
 	
 	/*Typed js*/
 	$("#typed").typed({
-		strings: [" Rajin", " Ulet", " Mandiri", "Pintar", "Sholehah", "Cerdas"],
+		strings: ["Syukur", "Kreatif", "Berkarya", "Sabar", "Riang", " Rajin", " Ulet", " Mandiri", "Pintar", "Sholehah", "Cerdas", "Cantik", "Tapi", "Itu semua milik Allah SWT"],
 		typeSpeed: 100,
 		backDelay: 900,
 		loop: true,
